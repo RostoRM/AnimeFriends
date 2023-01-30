@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/animeFriends/static/css/main.d270b5d6.css",
+    "main.js": "/animeFriends/static/js/main.2527b4bb.js",
+    "static/js/496.c684d81c.chunk.js": "/animeFriends/static/js/496.c684d81c.chunk.js",
+    "static/media/SEGA.woff": "/animeFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/animeFriends/index.html",
+    "main.d270b5d6.css.map": "/animeFriends/static/css/main.d270b5d6.css.map",
+    "main.2527b4bb.js.map": "/animeFriends/static/js/main.2527b4bb.js.map",
+    "496.c684d81c.chunk.js.map": "/animeFriends/static/js/496.c684d81c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d270b5d6.css",
+    "static/js/main.2527b4bb.js"
+  ]
+}
